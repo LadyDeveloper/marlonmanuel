@@ -10,7 +10,7 @@ body{
 }
 
 .main{
-  background: url(/images/lasvegas.jpg);
+  background: url("/images/lasvegas.jpg");
   background-size: 100% 100%;
   background-attachment: fixed;
   background-color: #C3A85D;
