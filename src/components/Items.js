@@ -1,5 +1,5 @@
 import React from "react";
-import houses from "../data";
+import FormInfo from "./FormInfo";
 
 function Items({ img, alt, price, beds, baths, sqft, address, city, zipcode }) {
   console.log('Image' + price)
@@ -14,10 +14,10 @@ function Items({ img, alt, price, beds, baths, sqft, address, city, zipcode }) {
           <span>{sqft} </span> sqft
         </p>
       </div>
-
       <p className="card-description">
         {address} {city} {zipcode}
       </p>
+      <FormInfo />
     </div>
   );
 }

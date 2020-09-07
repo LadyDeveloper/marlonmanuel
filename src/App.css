@@ -70,15 +70,20 @@ footer{
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
+  background-color: #FAFAFA;
+}
+
+.items-card:hover{
+  box-shadow: 5px 10px 18px rgb(182,182,183);
 }
 
 .items-card{
   display: flex;
   flex-direction: column;
   margin: 1rem;
-  height: 320px;
+  height: 350px;
   width: 400px;
- background-color: #C3A85D;
+ background-color: #F5F5F5;
 }
 
 
@@ -91,6 +96,9 @@ footer{
   display: flex;
 }
 
+.card-description{
+  padding: 0 0 .5rem 10px;
+}
 
 form{
   background-color: #fff;
@@ -127,6 +135,7 @@ i{
 .card-title{
   margin: 0.5rem 0;
   display: flex;
+  padding: 0 10px;
   justify-content: space-between;
 }
 
@@ -140,3 +149,28 @@ i{
 }
 
 
+.form-info{
+  background-color: #fff;
+  color: rgb(199,172,95);
+  padding: 0.5rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.form-info>button{
+  border: 0;
+  background-color: #fff;
+  color: rgb(199,172,95);
+  padding: 0.2rem;
+  font-family: 'Nanum Gothic', sans-serif;
+}
+.form-info>button>i{
+  padding: 5px;
+}
+.form-info>button:hover{
+ background-color: #F5F5F5;  
+}
+
+.price {
+  color: rgb(199,172,95);
+}
