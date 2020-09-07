@@ -1,18 +1,31 @@
 {
   "files": {
+<<<<<<< HEAD
     "main.css": "/marlonmanuel/static/css/main.86067d91.chunk.css",
     "main.js": "/marlonmanuel/static/js/main.dcb664aa.chunk.js",
     "main.js.map": "/marlonmanuel/static/js/main.dcb664aa.chunk.js.map",
+=======
+    "main.css": "/marlonmanuel/static/css/main.49ab8f46.chunk.css",
+    "main.js": "/marlonmanuel/static/js/main.da43e3b0.chunk.js",
+    "main.js.map": "/marlonmanuel/static/js/main.da43e3b0.chunk.js.map",
+>>>>>>> 0908b9b6ec2dacde09528f2cf9cdc762206d06b9
     "runtime-main.js": "/marlonmanuel/static/js/runtime-main.28ddbc80.js",
     "runtime-main.js.map": "/marlonmanuel/static/js/runtime-main.28ddbc80.js.map",
     "static/css/2.d651f42e.chunk.css": "/marlonmanuel/static/css/2.d651f42e.chunk.css",
     "static/js/2.ed2c4e26.chunk.js": "/marlonmanuel/static/js/2.ed2c4e26.chunk.js",
     "static/js/2.ed2c4e26.chunk.js.map": "/marlonmanuel/static/js/2.ed2c4e26.chunk.js.map",
     "index.html": "/marlonmanuel/index.html",
+<<<<<<< HEAD
     "precache-manifest.225fa1daefdf1410144f98c7b98aa502.js": "/marlonmanuel/precache-manifest.225fa1daefdf1410144f98c7b98aa502.js",
     "service-worker.js": "/marlonmanuel/service-worker.js",
     "static/css/2.d651f42e.chunk.css.map": "/marlonmanuel/static/css/2.d651f42e.chunk.css.map",
     "static/css/main.86067d91.chunk.css.map": "/marlonmanuel/static/css/main.86067d91.chunk.css.map",
+=======
+    "precache-manifest.4ad906286651446962ef1cb93448082e.js": "/marlonmanuel/precache-manifest.4ad906286651446962ef1cb93448082e.js",
+    "service-worker.js": "/marlonmanuel/service-worker.js",
+    "static/css/2.d651f42e.chunk.css.map": "/marlonmanuel/static/css/2.d651f42e.chunk.css.map",
+    "static/css/main.49ab8f46.chunk.css.map": "/marlonmanuel/static/css/main.49ab8f46.chunk.css.map",
+>>>>>>> 0908b9b6ec2dacde09528f2cf9cdc762206d06b9
     "static/js/2.ed2c4e26.chunk.js.LICENSE.txt": "/marlonmanuel/static/js/2.ed2c4e26.chunk.js.LICENSE.txt",
     "static/media/font-awesome.min.css": "/marlonmanuel/static/media/fontawesome-webfont.fee66e71.woff"
   },
@@ -20,7 +33,12 @@
     "static/js/runtime-main.28ddbc80.js",
     "static/css/2.d651f42e.chunk.css",
     "static/js/2.ed2c4e26.chunk.js",
+<<<<<<< HEAD
     "static/css/main.86067d91.chunk.css",
     "static/js/main.dcb664aa.chunk.js"
+=======
+    "static/css/main.49ab8f46.chunk.css",
+    "static/js/main.da43e3b0.chunk.js"
+>>>>>>> 0908b9b6ec2dacde09528f2cf9cdc762206d06b9
   ]
 }
