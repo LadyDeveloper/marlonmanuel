@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8aa58a383ac26f43d8f33e5977e53176",
+    "revision": "d8531c051be6f9451e16386916d00151",
     "url": "/marlonmanuel/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/marlonmanuel/static/css/2.d651f42e.chunk.css"
   },
   {
-    "revision": "d191ebe8b9a5d49f3321",
-    "url": "/marlonmanuel/static/css/main.49ab8f46.chunk.css"
+    "revision": "e750b58fc0299456b1df",
+    "url": "/marlonmanuel/static/css/main.86b845af.chunk.css"
   },
   {
     "revision": "a30e30df19550d8dfa15",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/marlonmanuel/static/js/2.ed2c4e26.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d191ebe8b9a5d49f3321",
-    "url": "/marlonmanuel/static/js/main.da43e3b0.chunk.js"
+    "revision": "e750b58fc0299456b1df",
+    "url": "/marlonmanuel/static/js/main.8c869a24.chunk.js"
   },
   {
     "revision": "d5fee47c951441c15f63",
