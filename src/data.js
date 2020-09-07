@@ -1,7 +1,7 @@
 export const houses = [
   {
     id: 1,
-    imgCard: "images/house.jpg",
+    imgCard: "/images/house.jpg",
     alt: "house",
     price: "$459,000",
     beds: "2",
@@ -13,7 +13,7 @@ export const houses = [
   },
   {
     id: 2,
-    imgCard: "images/house.jpg",
+    imgCard: "/images/house.jpg",
     alt: "house",
     price: "$300,000",
     beds: "2",
@@ -25,7 +25,7 @@ export const houses = [
   },
   {
     id: 3,
-    imgCard: "images/house.jpg",
+    imgCard: "/images/house.jpg",
     alt: "house",
     price: "$1,259,000",
     beds: "2",
@@ -37,7 +37,7 @@ export const houses = [
   },
   {
     id: 4,
-    imgCard: "images/house.jpg",
+    imgCard: "/images/house.jpg",
     alt: "house",
     price: "$259,000",
     beds: "2",

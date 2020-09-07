@@ -10,11 +10,11 @@ body{
 }
 
 .main{
-  background: url("/images/lasvegas.jpg");
+  background: url('https://www.lasvegas.com/xlvc_hotels_1.jpg.pagespeed.ic.xTTjWs3yAA.webp');
   background-size: 100% 100%;
   background-attachment: fixed;
   background-color: #C3A85D;
-  height: 50vh;
+  height: 30vh;
   display: flex;
   flex-direction: column;
   align-items: center;
